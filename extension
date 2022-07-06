@@ -1,0 +1,3 @@
+fn = input("abc.py:")
+f = fn.split(".")
+print (" extension of file is : 'python')
